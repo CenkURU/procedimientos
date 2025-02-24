@@ -1,0 +1,3 @@
+ping ip (para ver si la maquina esta online)
+nmap -sV -sC -T5 ip (se obtiene informacion general)
+nmap -Pn -sC -T5 IP (para hacer un ping en un inicio y despues infromacion general)
